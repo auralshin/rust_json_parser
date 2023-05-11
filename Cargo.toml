@@ -2,7 +2,7 @@
 name = "rust_json_parser"
 version = "0.1.0"
 edition = "2021"
-
+authors = ["Anshul <anshulspartan141@gmail.com>"]
 
 [lib]
 name = "mylib"
