@@ -3,6 +3,8 @@ name = "rust_json_parser"
 version = "0.1.0"
 edition = "2021"
 authors = ["Anshul <anshulspartan141@gmail.com>"]
+description = "JSON parser for Node js based frameworks"
+license = "MIT OR Apache-2.0"
 
 [lib]
 name = "mylib"
